@@ -9,5 +9,5 @@ this bot is used to show informations about cryptocoins in real time, showing yo
 
 and in this project i used CoinGecko API to make its works! 
 
-this project was made in 2020, maybe it's don't will works great currently. 
+this project was made in 2021, maybe it's don't will works great currently. 
 
